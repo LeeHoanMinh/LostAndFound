@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: f7201a9b506dfb94a963b0bbe1d9ec21
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kufam
+  fontNames:
+  - Kufam
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 61f1e3517b7974e49b30f448180372cc, type: 3}
+  - {fileID: 12800000, guid: 82f4d5911b244be4ba1fb035a3944969, type: 3}
+  - {fileID: 12800000, guid: 1360b7e1ea9f44d448b0c0c574ca84be, type: 3}
+  - {fileID: 12800000, guid: 93dbb4743ffbfaf46a89e28634762c8b, type: 3}
+  - {fileID: 12800000, guid: d4887bf755c52574e8be1617ce80dd4d, type: 3}
+  - {fileID: 12800000, guid: e7c5871c54be94f4c89e74fa23311d15, type: 3}
+  - {fileID: 12800000, guid: 55967dfdb3e7f5d4694b65e583ac3600, type: 3}
+  - {fileID: 12800000, guid: c0567a6e2bdce9247ac6a88ce555a298, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

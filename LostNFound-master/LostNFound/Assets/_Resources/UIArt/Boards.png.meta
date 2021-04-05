@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: e68b58c983c31014ab12ca5a04996521
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7572493703657156811
+    second: Boards_0
+  - first:
+      213: 5102203429886490507
+    second: Boards_1
+  - first:
+      213: 8628011460865073752
+    second: Boards_2
+  - first:
+      213: -6065727723180652099
+    second: Boards_3
+  - first:
+      213: -5785617837887295012
+    second: Boards_4
+  - first:
+      213: 5689519675770196390
+    second: Boards_5
+  - first:
+      213: 9102925733066027912
+    second: Boards_6
+  - first:
+      213: 5481032429320986237
+    second: Boards_7
+  - first:
+      213: 3007335364979358872
+    second: Boards_8
+  - first:
+      213: -4834270548221704436
+    second: Boards_9
+  - first:
+      213: 3541423906967278335
+    second: Boards_10
+  - first:
+      213: -7481398425693117743
+    second: Boards_11
+  - first:
+      213: 4423025351724592467
+    second: Boards_12
+  - first:
+      213: -1887545064055006354
+    second: Boards_13
+  - first:
+      213: 772483837057788235
+    second: Boards_14
+  - first:
+      213: 5041173022179972552
+    second: Boards_15
+  - first:
+      213: -7424683741725719849
+    second: Boards_16
+  - first:
+      213: 4051018297661515204
+    second: Boards_17
+  - first:
+      213: -3984029503587874227
+    second: Boards_18
+  - first:
+      213: -2678459400248810372
+    second: Boards_19
+  - first:
+      213: 4248926844654325971
+    second: Boards_20
+  - first:
+      213: 1081107193236853482
+    second: Boards_21
+  - first:
+      213: 4614863643108697832
+    second: Boards_22
+  - first:
+      213: 7796312714201876993
+    second: Boards_23
+  - first:
+      213: -3241060178678496022
+    second: Boards_24
+  - first:
+      213: 5598685957059814266
+    second: Boards_25
+  - first:
+      213: 5890504437580768561
+    second: Boards_26
+  - first:
+      213: 3388469526173471281
+    second: Boards_27
+  - first:
+      213: 3974326324561366340
+    second: Boards_28
+  - first:
+      213: 1420942204526466880
+    second: Boards_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boards_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1890
+        width: 117
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f02a9e81919e690800000000000000
+      internalID: -7572493703657156811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boards_1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1902
+        width: 136
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87f922acfaaec640800000000000000
+      internalID: 5102203429886490507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boards_2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1894
+        width: 137
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852acd2e5badcb770800000000000000
+      internalID: 8628011460865073752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boards_3
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1022
+        width: 787
+        height: 967
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9049bf5c432dba0800000000000000
+      internalID: -6065727723180652099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boards_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1742
+        width: 117
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1709eda3b55bfa0800000000000000
+      internalID: -5785617837887295012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boards_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1751
+        width: 117
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1d0e0300c35fe40800000000000000
+      internalID: 5689519675770196390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boards_6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1855
+        width: 233
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883b92099b6145e70800000000000000
+      internalID: 9102925733066027912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boards_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1589
+        width: 389
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c742dd6dd5334dad0800000000000000
+      internalID: -2678459400248810372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boards_20
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1444
+        width: 408
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d01e34147837fa30800000000000000
+      internalID: 4248926844654325971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boards_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1445
+        width: 389
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae29009a34dd00f00800000000000000
+      internalID: 1081107193236853482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boards_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1298
+        width: 389
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6eb56680a4b0040800000000000000
+      internalID: 4614863643108697832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boards_23
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1147
+        width: 233
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a4ddf5b11123c60800000000000000
+      internalID: 7796312714201876993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boards_24
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1148
+        width: 233
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4443a70f07503d0800000000000000
+      internalID: -3241060178678496022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boards_25
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1146
+        width: 233
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73a48ff63782bd40800000000000000
+      internalID: 5598685957059814266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boards_26
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 53
+        width: 701
+        height: 1021
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1352dd5a3964fb150800000000000000
+      internalID: 5890504437580768561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boards_27
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 40
+        width: 787
+        height: 884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1325ec7c413460f20800000000000000
+      internalID: 3388469526173471281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boards_28
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 143
+        width: 49
+        height: 759
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dc6fc3cb4a72730800000000000000
+      internalID: 3974326324561366340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boards_29
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 132
+        width: 68
+        height: 777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0471923186338b310800000000000000
+      internalID: 1420942204526466880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
